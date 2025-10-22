@@ -11,7 +11,7 @@ A transaction that deviates from established patterns or triggers predefined rul
 *   **Requires Review:** Each alert necessitates a thorough investigation to determine its validity.
 
 **Supporting Source:**
-According to the FFIEC BSA/AML Manual, effective monitoring systems include components such as "Identification or alert of unusual activity," emphasizing the need for further investigation after an alert is generated. [bsaaml.ffiec.gov]([bsaaml.ffiec.gov](https://bsaaml.ffiec.gov/manual/AssessingComplianceWithBSARegulatoryRequirements/04?utm_source=chatgpt.com))
+According to the FFIEC BSA/AML Manual, effective monitoring systems include components such as "Identification or alert of unusual activity," emphasizing the need for further investigation after an alert is generated. [bsaaml.ffiec.gov](https://bsaaml.ffiec.gov/manual/AssessingComplianceWithBSARegulatoryRequirements/04?utm_source=chatgpt.com)
 
 ### 2. Analyst / Investigator Review
 
