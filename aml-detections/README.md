@@ -29,7 +29,7 @@ To assess flagged transactions and determine whether they represent true risks r
 *   **False Positive:** If the transaction is legitimate, the alert is closed without further action.
 
 **Supporting Source:**
-The FFIEC BSA/AML Manual outlines the process of managing alerts, including SAR decision-making, which involves determining whether to file a SAR based on the investigation's findings. [bsaaml.ffiec.gov](bsaaml.ffiec.gov)
+The FFIEC BSA/AML Manual outlines the process of managing alerts, including SAR decision-making, which involves determining whether to file a SAR based on the investigation's findings. [bsaaml.ffiec.gov](https://bsaaml.ffiec.gov/manual/AssessingComplianceWithBSARegulatoryRequirements/04?utm_source=chatgpt.com)
 
 ### 3. Confirmed Suspicious Activity
 
@@ -40,7 +40,7 @@ A transaction or pattern of transactions that, after thorough investigation, is 
 Financial institutions are mandated to file a SAR when they know, suspect, or have reasonable grounds to suspect that a transaction involves illegal activity. LSEG
 
 **Supporting Source:**
-The FFIEC BSA/AML Manual specifies that SAR filing is a key component of an effective monitoring and reporting system, underscoring the importance of this process in compliance efforts. [bsaaml.ffiec.gov](bsaaml.ffiec.gov)
+The FFIEC BSA/AML Manual specifies that SAR filing is a key component of an effective monitoring and reporting system, underscoring the importance of this process in compliance efforts. [bsaaml.ffiec.gov](https://bsaaml.ffiec.gov/manual/AssessingComplianceWithBSARegulatoryRequirements/04?utm_source=chatgpt.com)
 
 ### 4. False Positives
 
@@ -52,7 +52,7 @@ Legitimate transactions that are incorrectly flagged as suspicious by AML system
 *   **Customer Impact:** Can lead to unnecessary delays or disruptions for customers.
 
 **Supporting Source:**
-According to Flagright, false positives are inevitable in AML systems, and while they can be frustrating, they are necessary to ensure that no suspicious activity goes undetected. [flagright.com](flagright.com)
+According to Flagright, false positives are inevitable in AML systems, and while they can be frustrating, they are necessary to ensure that no suspicious activity goes undetected. [flagright.com](https://www.flagright.com/post/understanding-false-positives-in-transaction-monitoring?utm_source=chatgpt.com)
 
 ### 5. Balancing False Positives and False Negatives
 
@@ -65,4 +65,4 @@ To minimize both false positives (legitimate transactions flagged as suspicious)
 *   **Implement AI and Machine Learning:** Utilize advanced technologies to improve detection accuracy and efficiency.
 
 **Supporting Source:**
-Focal.ai discusses the importance of balancing false positives and false negatives in AML systems, emphasizing the need for continuous improvement and adaptation to evolving threats. Focal
+Focal.ai discusses the importance of balancing false positives and false negatives in AML systems, emphasizing the need for continuous improvement and adaptation to evolving threats. [Focal](https://www.getfocal.ai/blog/reduce-false-positives-in-aml?utm_source=chatgpt.com)
